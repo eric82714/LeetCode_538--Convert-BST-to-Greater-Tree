@@ -4,7 +4,7 @@ Given a Binary Search Tree (BST), convert it to a Greater Tree such that every k
 
 Example:
 
-![image]()
+![image](https://github.com/eric82714/LeetCode_538--Convert-BST-to-Greater-Tree/blob/master/image/example.PNG)
 
 # Note: 
 
